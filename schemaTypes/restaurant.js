@@ -50,7 +50,7 @@ export default {
         title: 'Reviews',
     },
     {
-        name: 'type',
+        name: 'category',
         type: 'Category',
         validation: rule=> rule.required(),
         type: 'reference',
