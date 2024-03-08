@@ -23,9 +23,9 @@ export default defineType({
       title: 'image of the category'
     },
     {
-        name: 'Price',
+        name: 'price',
         type: 'number',
-        title: 'Price of dish in Ksh'
+        title: 'Price of dish in USD'
     }  
   ],
 })
